@@ -1,5 +1,5 @@
 version: '3'
-test
+test & test 2
 services:
   # my-app:
   # image: ${docker-registry}/my-app:1.0
