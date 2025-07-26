@@ -1,4 +1,4 @@
-## demo app - developing with Docker
+# demo app - developing with Docker
 
 In this lesson we worked with Mongo and Docker
 
