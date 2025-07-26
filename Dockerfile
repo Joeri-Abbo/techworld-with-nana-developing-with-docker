@@ -1,4 +1,4 @@
-FROM node:13-alpine
+FROM node:24-alpine
 
 
 ENV MONGO_DB_USERNAME=admin \
